@@ -12,7 +12,7 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "", // Put your session id here
+  SESSION_ID: "6J5hAQaa#cuC2bSIiGGSwaHLxNDKcuSb6DVqlnOOFihe_OdwzZIc", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
@@ -22,9 +22,9 @@ const defaultConfig = {
   BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
-  AUTO_STATUS_REPLY: "true",
+  AUTO_STATUS_REPLY: "false",
   AUTO_STATUS_SEEN: "true",
-  MODE: "public", // 'private', 'public'
+  MODE: "inbox", // 'private', 'public'
 };
 
 //*******************************************************************************************************************************************************
